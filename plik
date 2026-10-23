@@ -1,0 +1,21 @@
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Obejrzyj film 😄</title>
+</head>
+<body style="font-family:Arial;text-align:center;padding:40px">
+  <h1>Masz nowy filmik 😄</h1>
+  <p>Kliknij odtwarzacz, aby go uruchomić.</p>
+
+  <iframe
+    src="https://drive.google.com/file/d/1z7txs86njTQxhiVxKfNc33dO7l8SjRdD/preview"
+    width="320"
+    height="480"
+    allow="autoplay"
+    style="max-width:100%;border:0">
+  </iframe>
+</body>
+</html>
